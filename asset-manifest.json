@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/email-auth-firebase/static/css/main.da3089f3.css",
+    "main.js": "/email-auth-firebase/static/js/main.251eb711.js",
+    "index.html": "/email-auth-firebase/index.html",
+    "main.da3089f3.css.map": "/email-auth-firebase/static/css/main.da3089f3.css.map",
+    "main.251eb711.js.map": "/email-auth-firebase/static/js/main.251eb711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.251eb711.js"
+  ]
+}
